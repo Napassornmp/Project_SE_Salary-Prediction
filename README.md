@@ -14,4 +14,4 @@ This project focuses on predicting and classifying income levels across the Sout
 5. Evaluation: Assessed performance using a Confusion Matrix, Precision-Recall curves, and F1-Score.
 
 
-Dataset: Telco Customer Churn by BlastChar on Kaggle.
+Dataset: [Salary Prediction Classification](https://www.kaggle.com/code/abdallahabuelftouh/salary-prediction-classification)
