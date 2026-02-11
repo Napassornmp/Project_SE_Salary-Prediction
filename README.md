@@ -12,3 +12,6 @@ This project focuses on predicting and classifying income levels across the Sout
 4. Modeling: Trained and tuned a Logistic Regression classifier.
 
 5. Evaluation: Assessed performance using a Confusion Matrix, Precision-Recall curves, and F1-Score.
+
+
+Dataset: Telco Customer Churn by BlastChar on Kaggle.
